@@ -11,4 +11,6 @@ C++ Code Solutions | Struktur Data 2023
 - [@x](https://www.github.com/x)
 - [@x](https://www.github.com/x)
 
-<img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" alt="meme" width="400" height="300">
+<p align="center">
+    <img src="https://i.ibb.co/hZBs225/IMG-4129.jpg" width=250 length=250>
+
